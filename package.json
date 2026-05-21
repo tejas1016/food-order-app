@@ -1,0 +1,29 @@
+{
+  "name": "food-order-app",
+  "version": "1.0.0",
+  "description": "This food ordering website",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejas1016/food-order-app.git"
+  },
+  "keywords": [],
+  "author": "Tejas Mulay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejas1016/food-order-app/issues"
+  },
+  "homepage": "https://github.com/tejas1016/food-order-app#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
